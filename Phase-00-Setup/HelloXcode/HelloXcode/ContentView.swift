@@ -6,6 +6,7 @@ struct ContentView: View {
         Text("Hello, world from Xcode!")
             .padding()
 			.foregroundStyle(.orange)
+			.font(.title)
     }
 }
 
