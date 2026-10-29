@@ -5,6 +5,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, world from Xcode!")
             .padding()
+			.foregroundStyle(.orange)
     }
 }
 
