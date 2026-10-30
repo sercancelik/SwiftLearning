@@ -7,7 +7,4 @@
    <FileRef
       location = "group:Phase-00-Setup/HelloXcode/HelloXcode.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Phase01-Swift-Basics/SwiftBasicsCLI/SwiftBasicsCLI.xcodeproj">
-   </FileRef>
 </Workspace>
