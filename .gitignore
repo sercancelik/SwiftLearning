@@ -4,3 +4,4 @@ DerivedData/
 build/
 .build/
 *.xcuserstate
+*.xcworkspacedata
