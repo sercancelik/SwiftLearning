@@ -3,7 +3,7 @@ import Playgrounds
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world from Xcode!")
+        Text("Hello, world from Xcode with Swift!")
             .padding()
 			.foregroundStyle(.orange)
 			.font(.title)
